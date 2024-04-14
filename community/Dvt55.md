@@ -3,11 +3,11 @@
 - Cursando Engenharia de computação pela Universidade Federal do Ceará (UFC).
 - Amante de tecnologias modernas!
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%Dvt55&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" width="20px", heigh="20px" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%Dvt55&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
 
 <div style="width: max-content;">
 
-### Hard Skills <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+### Hard Skills <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="20px", heigh="20px">
 
 ![C++](https://img.shields.io/badge/C++-%236E10E3?style=flat-square&labelColor=007ACC&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23007ACC?style=flat-square&labelColor=%23414141&logo=c&logoColor=white)

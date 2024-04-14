@@ -3,7 +3,7 @@
 - Cursando Engenharia de computação pela Universidade Federal do Ceará (UFC).
 - Amante de tecnologias modernas!
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%Dvt55&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Farthurgalanti"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%Dvt55&label=Visitantes%20(HOJE%2FTotal)&labelColor=%235b187e&countColor=%235b187e&labelStyle=upper" width="20px", heigh="20px" /></a>
 
 <div style="width: max-content;">
 

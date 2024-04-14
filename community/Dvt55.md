@@ -7,7 +7,8 @@
 
 <div style="width: max-content;">
 
-### Hard Skills <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="20px", heigh="20px">
+### Hard Skills <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="20px" height="20px">
+
 
 ![C++](https://img.shields.io/badge/C++-%236E10E3?style=flat-square&labelColor=007ACC&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23007ACC?style=flat-square&labelColor=%23414141&logo=c&logoColor=white)
